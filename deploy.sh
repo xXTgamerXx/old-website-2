@@ -10,5 +10,5 @@ git checkout -B main
 git add -A
 git commit -m "deploy"
 
-git push -f https://github.com/xXTgamerXx/xXTgamerXx.github.io.git main:gh-pages
+git push -f https://github.com/xXTgamerXx/old-website-2.git main:gh-pages
 cd ..
